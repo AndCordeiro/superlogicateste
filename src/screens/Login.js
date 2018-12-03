@@ -5,7 +5,6 @@ import {
 	StyleSheet
 } from 'react-native';
 
-
 class Login extends Component {
 	render() {
 		return (
